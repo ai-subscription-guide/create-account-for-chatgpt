@@ -1,35 +1,61 @@
 # 2026最新ChatGPT注册方法：邮箱注册全流程，小白也能学会
 
-在AI的时代浪潮，很多人想尝试使用ChatGPT帮助自己提高效率，今天附上一篇图文教程，手把手教会你如何注册ChatGPT。
+> 整理更新：2026-10-29。保留原稿操作配图；截图中的旧价格、邀请码和界面仅供参考，以当前页面为准。
 
-## 一、登录ChatGPT官网
+> 完整 ChatGPT 教程目录：[主仓库](https://github.com/ai-subscription-guide/chatgpt-plus-guide)。本页保留原有访问地址。
 
-打开官网，选择Apple账户或者电话号码、邮箱免费注册。这里我们使用邮箱注册。（建议使用Outlook邮箱）
+## 本文目录
 
-注意：登录官网要魔法梯子。
+- [一、登录Chatgpt官网 ](#section-1)
+- [二、输入验证码](#section-2)
+- [三、注册成功](#section-3)
 
-官网传送门：[https://chatgpt.com/](https://chatgpt.com/)
+在AI的时代浪潮，很多人想尝试使用chatgpt帮助自己提高效率，今天附上一篇图文教程，手把手教会你如何注册Chatgpt。
 
-![ChatGPT注册入口](https://internal-api-drive-stream-jp.larksuite.com/space/api/box/stream/download/authcode/?code=MjE3MTMwZWM1M2EzNTg5NDgxOTE2YzU5YWY1ZTY4ODNfYzU4ZjM4YmZlZGI0YjY1YTg0ZDYxNDgxYTA3OTkzZmNfSUQ6NzY5OTMwNzE4Mzc1ODA4NTY3MF8xNzkyNzM3MDk3OjE3OTI4MjM0OTdfVjM)
+<a id="section-1"></a>
 
-![使用邮箱注册ChatGPT](https://internal-api-drive-stream-jp.larksuite.com/space/api/box/stream/download/authcode/?code=MThkYjFiODQ2MjA4ODAwNTJmN2Q1Yjg5NWNjODQzMTBfYjVjN2Q1OGRkN2JkMTZlOTQ4OWZhMWJkNmRiYmM2MTVfSUQ6NzY5OTM2NTk5NDk4ODQwODM1NV8xNzkyNzM3MDk3OjE3OTI4MjM0OTdfVjM)
+## 一、登录Chatgpt官网
+
+打开官网，选择Apple账户或者电话号码，邮箱免费注册。这里我们使用邮箱注册。（建议使用outlook邮箱）
+
+注意：登录官网要魔法梯子
+
+官网传送门：https://chatgpt.com/
+
+![chatgpt-register 操作截图 1](assets/images/chatgpt-register/step-01.png)
+
+![chatgpt-register 操作截图 2](assets/images/chatgpt-register/step-02.png)
+
+<a id="section-2"></a>
 
 ## 二、输入验证码
 
-当你填写完自己的邮箱，官网会发送一个验证码到对应邮箱，打开邮箱查看并输入验证码，等待验证。
+当你填写完自己的邮箱，官网会发送一个验证码到对应邮箱，点卡邮箱查看并输入验证码等待验证
 
-![输入邮箱验证码](https://internal-api-drive-stream-jp.larksuite.com/space/api/box/stream/download/authcode/?code=ZjdjMDgwMGUxNDJhZmZlYTE2OGQ3NDBmMmRlZWE3MjhfYWVlMjhmN2YxZTFhOWNlOTc1NTVhYWFlY2E4MTQ4OGJfSUQ6NzY5OTM2NDUzNjc4NDM5MTcxNl8xNzkyNzM3MDk3OjE3OTI4MjM0OTdfVjM)
+![chatgpt-register 操作截图 3](assets/images/chatgpt-register/step-03.png)
+
+<a id="section-3"></a>
 
 ## 三、注册成功
 
-输入完验证码等待验证后，系统就会提示注册成功，如下图，就可以使用免费版本的ChatGPT啦。
+输入完验证码等待验证后，系统就会提示注册成功，如下图，就可以使用免费版本的chatgpt啦
 
-![ChatGPT注册成功](https://internal-api-drive-stream-jp.larksuite.com/space/api/box/stream/download/authcode/?code=MDBjNWNlMDY2Y2JmNWRiMzk1NGY1ZTBlOWU3NjQwYmRfZjM5MmYyMmJkNTBlYmY5OTdjNTI1ZDhmMjdmZTMxOTBfSUQ6NzY5OTM2NTI5MDM2MjM1OTMzNF8xNzkyNzM3MDk3OjE3OTI4MjM0OTdfVjM)
+![chatgpt-register 操作截图 4](assets/images/chatgpt-register/step-04.png)
 
 以上就是文章的全部内容，感谢观看。
+
+如果你想要了解如何订阅ChatGPT会员，可以看我之前的文章——
 
 如果你想要了解如何订阅ChatGPT会员，可以通过Wildai进行订阅——
 
 传送门：[https://bewild.ai/?code=1103](https://bewild.ai/?code=1103)
 
-![Wildai订阅说明](https://internal-api-drive-stream-jp.larksuite.com/space/api/box/stream/download/authcode/?code=ODk3YzFlOGI1OTQ4YTBjNzRkMTc4N2JlZGI2Y2QwYTBfYWFkYzMzOTFjY2Y5M2FjODZhNTJlYTY3YWI5NjhlNTVfSUQ6NzY5OTczMjk2MzAxNzI0ODI5M18xNzkyNzM3MDk3OjE3OTI4MjM0OTdfVjM)
+![chatgpt-register 操作截图 5](assets/images/chatgpt-register/step-05.png)
+
+## 订阅与相关阅读
+
+[前往 WildAI](https://bewild.ai/?code=1103)。注册时填写邀请码 **1103**，可享 **1 美元优惠**；适用范围和实付金额以当前结算页为准。该链接为推荐链接。请勿将密码、验证码或 Session 等登录凭据发到公开页面。
+
+- [ChatGPT 手机版下载教程](https://github.com/ai-subscription-guide/chatgpt-plus-guide/blob/main/guides/chatgpt-download-mobile.md)
+- [ChatGPT 电脑版下载教程](https://github.com/ai-subscription-guide/chatgpt-plus-guide/blob/main/guides/chatgpt-download-desktop.md)
+- [ChatGPT 订阅与支付指南](https://github.com/ai-subscription-guide/chatgpt-plus-guide)
